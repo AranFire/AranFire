@@ -2,111 +2,108 @@
 
 ## About Me
 
-I'm a Content Editor with 7+ years of experience in editorial quality, statistical publications, content classification, and information management.
+I am a Content Editor with 7+ years of experience in editorial quality, statistical publications, content classification, metadata management, and information organization.
 
-Currently, I'm expanding my skills in Data Analytics, focusing on:
+I am currently developing skills in data analytics and business intelligence, with a focus on **Power BI, Python, SQL, Excel, Git, and GitHub**.
 
-- 📊 Power BI
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Excel
-- 🌐 Git & GitHub
+My goal is to combine my editorial expertise, attention to detail, and understanding of structured information with data-driven problem-solving. I am working toward opportunities in **Data Analytics** and **Business Intelligence**, while continuing to explore **Technical Writing**.
 
-My goal is to combine my editorial expertise with data-driven decision-making and transition into roles such as Data Analyst, Business Intelligence Analyst, or Technical Writer.
-
----
+> Turning structured information into actionable insights.
 
 ## Current Learning Journey
 
-🎓 Data Analytics Program 
-
-📚 Microsoft Learn
-
-💻 GitHub Skills
-
-🔍 Building portfolio projects in:
-- Data Analysis
-- Data Visualization
-- Business Reporting
-- Process Improvement Analytics
-
----
-
-## Professional Background
-
-### Content Editor | Clarivate
-
-- Review and edit statistical and business reports
-- Ensure editorial quality and consistency
-- Abstracting and indexing content
-- Quality auditing and process improvement
-- Content classification and metadata management
-
-### Previous Experience
-
-- Language Editor
-- Editorial Quality Assurance
-- Publication Editing
-
----
+- 🎓 Pursuing a Data Analytics program
+- 📚 Learning through Microsoft Learn
+- 💻 Practising Git and GitHub through GitHub Skills
+- 📊 Building foundations in data preparation, analysis, and visualization
+- 🧩 Exploring business reporting and process improvement through data
 
 ## Technical Skills
 
-### Analytics & Reporting
+### Data Analytics and Reporting
+
 - Power BI
-- Excel
-- Data Visualization
+- Microsoft Excel
 - Data Cleaning
+- Data Visualization
+- Business Reporting
 
-### Programming
-- Python (Learning)
-- SQL (Learning)
+### Programming and Databases
 
-### Tools
+- Python for Data Analysis, currently learning
+- SQL, currently learning
+
+### Tools and Platforms
+
 - Git
 - GitHub
 - Microsoft Office
 - ECMS
 - Synaptica
 
----
+## Professional Background
 
-## Projects
+### Content Editor | Clarivate
 
-Coming soon...
+My work includes:
 
-Planned portfolio projects:
+- Reviewing and copy-editing statistical and business reports
+- Maintaining grammatical accuracy, clarity, consistency, and editorial quality
+- Abstracting and indexing report content
+- Classifying content and managing metadata
+- Performing quality audits
+- Supporting process improvement and workflow consistency
 
-- 📊 Statistical Publications Dashboard
-- 📈 Sales & Revenue Analysis Dashboard
-- 🗃️ Content Classification Analytics
-- 🐍 Python Data Cleaning Project
-- 🏢 Business Performance Analysis
-- 📉 Operational Reporting Dashboard
+### Previous Editorial Experience
 
----
+Before becoming a Content Editor, I worked as a Language Editor, developing experience in:
 
-## Currently Working On
+- Language and publication editing
+- Editorial quality assurance
+- Grammar, clarity, and consistency
+- Structured content review
 
-- Learning Power BI and Python
-- Building my Data Analytics portfolio
-- Improving SQL skills
-- Exploring business intelligence concepts
+## Featured Projects
 
----
+🚧 I am currently building portfolio projects that connect my editorial experience with data analytics.
+
+### Planned Projects
+
+- 📊 **Statistical Publications Dashboard**  
+  An analysis of publication types, industries, geographic coverage, and reporting trends.
+
+- 🗂️ **Content Classification Analytics**  
+  An exploration of content categories, metadata, and classification patterns.
+
+- 🐍 **Python Data Cleaning Project**  
+  A project demonstrating data inspection, cleaning, transformation, and validation.
+
+- 📈 **Business Performance Dashboard**  
+  A Power BI project presenting key business metrics, trends, and insights.
+
+- 🧮 **SQL Reporting Project**  
+  A collection of SQL queries designed to answer practical business questions.
+
+- ⚙️ **Editorial Workflow Analytics**  
+  An analysis of throughput, turnaround time, error categories, and workflow patterns using sample data.
+
+## Current Focus
+
+- Strengthening my Power BI fundamentals
+- Learning Python for data analysis
+- Building a practical foundation in SQL
+- Improving my Git and GitHub workflow
+- Creating documented, portfolio-ready analytics projects
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=AranFire&show_icons=true
-
----
+https://github-readme-stats.vercel.app/api?username=AranFire&show_icons=true&hide_border=true
 
 ## Connect With Me
 
-💼 LinkedIn: [ ]
+- 📍 Coimbatore, Tamil Nadu, India
+- 💼 LinkedIn profile coming soon
 
-📍 Coimbatore, Tamil Nadu, India
+## Career Direction
 
----
-
-> "Turning structured information into actionable insights."
+I am building on my editorial background rather than starting over. My experience with statistical publications, content quality, classification, metadata, and structured information provides a strong foundation for applying analytics to reporting, operations, and process improvement.
