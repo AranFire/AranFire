@@ -2,108 +2,167 @@
 
 ## About Me
 
-I am a Content Editor with 7+ years of experience in editorial quality, statistical publications, content classification, metadata management, and information organization.
+I am a Content Editor with 7+ years of experience in editorial quality, statistical publications, content classification, metadata management, abstracting, indexing, and information organization.
 
-I am currently developing skills in data analytics and business intelligence, with a focus on **Power BI, Python, SQL, Excel, Git, and GitHub**.
+My work has focused on transforming complex information into accurate, structured, and discoverable content. Through this experience, I developed a strong foundation in data quality, classification systems, pattern recognition, and process consistency.
 
-My goal is to combine my editorial expertise, attention to detail, and understanding of structured information with data-driven problem-solving. I am working toward opportunities in **Data Analytics** and **Business Intelligence**, while continuing to explore **Technical Writing**.
+I enjoy working with structured information, identifying patterns, improving data quality, and transforming complex information into actionable insights.
 
-> Turning structured information into actionable insights.
+I am currently building expertise in Data Analytics and Business Intelligence through hands-on learning in Power BI, Python, SQL, Excel, Git, and GitHub. My learning journey combines structured coursework, Microsoft Learn learning paths, GitHub Skills, and hands-on practice through Kaggle.
 
-## Current Learning Journey
+My goal is to combine my editorial background with analytics skills to help organizations transform structured information into meaningful business insights.
 
-- 🎓 Pursuing a Data Analytics program
-- 📚 Learning through Microsoft Learn
-- 💻 Practising Git and GitHub through GitHub Skills
-- 📊 Building foundations in data preparation, analysis, and visualization
-- 🧩 Exploring business reporting and process improvement through data
+---
 
 ## Technical Skills
 
-### Data Analytics and Reporting
+### Data Analytics & Reporting
 
 - Power BI
 - Microsoft Excel
 - Data Cleaning
 - Data Visualization
+- Dashboard Development
 - Business Reporting
 
-### Programming and Databases
+### Programming & Databases
 
-- Python for Data Analysis, currently learning
-- SQL, currently learning
+- Python
+- SQL
 
-### Tools and Platforms
+### Tools & Platforms
 
 - Git
 - GitHub
+- Jupyter Notebook
 - Microsoft Office
-- ECMS
-- Synaptica
 
-## Professional Background
+### Content & Metadata
 
-### Content Editor | Clarivate
+- Content Classification
+- Metadata Management
+- Abstracting
+- Indexing
+- Editorial Quality Assurance
+- Information Organization
 
-My work includes:
+---
 
-- Reviewing and copy-editing statistical and business reports
-- Maintaining grammatical accuracy, clarity, consistency, and editorial quality
-- Abstracting and indexing report content
-- Classifying content and managing metadata
-- Performing quality audits
-- Supporting process improvement and workflow consistency
+## Portfolio Projects
 
-### Previous Editorial Experience
+### Statistical Publications Dashboard
+**Status:** In Development
 
-Before becoming a Content Editor, I worked as a Language Editor, developing experience in:
+A Power BI dashboard analyzing publication trends, report types, industries, and geographic coverage using sample datasets.
 
-- Language and publication editing
-- Editorial quality assurance
-- Grammar, clarity, and consistency
-- Structured content review
+**Skills**
+- Power BI
+- Data Visualization
+- Dashboard Design
+- Business Reporting
 
-## Featured Projects
+### Content Classification Analytics
+**Status:** In Development
 
-🚧 I am currently building portfolio projects that connect my editorial experience with data analytics.
+An analytics project exploring content categories, metadata structures, classification patterns, and reporting trends.
 
-### Planned Projects
+**Skills**
+- Excel
+- Power BI
+- Data Analysis
+- Information Organization
 
-- 📊 **Statistical Publications Dashboard**  
-  An analysis of publication types, industries, geographic coverage, and reporting trends.
+### Python Data Cleaning Project
+**Status:** In Development
 
-- 🗂️ **Content Classification Analytics**  
-  An exploration of content categories, metadata, and classification patterns.
+A project demonstrating data inspection, cleaning, validation, transformation, and preparation using Python.
 
-- 🐍 **Python Data Cleaning Project**  
-  A project demonstrating data inspection, cleaning, transformation, and validation.
+**Skills**
+- Python
+- Pandas
+- Data Cleaning
+- Data Validation
 
-- 📈 **Business Performance Dashboard**  
-  A Power BI project presenting key business metrics, trends, and insights.
+### SQL Reporting Project
+**Status:** Planned
 
-- 🧮 **SQL Reporting Project**  
-  A collection of SQL queries designed to answer practical business questions.
+A collection of SQL queries designed to answer practical business questions using relational datasets.
 
-- ⚙️ **Editorial Workflow Analytics**  
-  An analysis of throughput, turnaround time, error categories, and workflow patterns using sample data.
+### Editorial Workflow Analytics
+**Status:** Planned
+
+An analytical project exploring workflow efficiency, quality trends, and operational reporting using sample datasets.
+
+---
 
 ## Current Focus
 
-- Strengthening my Power BI fundamentals
-- Learning Python for data analysis
-- Building a practical foundation in SQL
-- Improving my Git and GitHub workflow
-- Creating documented, portfolio-ready analytics projects
+- Strengthening Power BI fundamentals and dashboard development
+- Learning Python for data analysis and data cleaning
+- Building a practical foundation in SQL for reporting and querying
+- Developing portfolio-ready analytics projects
+- Expanding Git and GitHub skills for version control and collaboration
+- Applying analytics to reporting, operations, and process improvement
 
-## GitHub Stats
+---
 
-https://github-readme-stats.vercel.app/api?username=AranFire&show_icons=true&hide_border=true
+## Continuous Learning
+
+- Data Analytics program focused on Power BI and Python
+- Microsoft Learn learning paths
+- GitHub Skills courses
+- Kaggle courses and hands-on exercises
+- Self-directed analytics projects and portfolio development
+
+---
+
+## Professional Experience
+
+### Content Editor | Clarivate
+
+Key Areas of Expertise
+
+- Statistical publications
+- Business and research reports
+- Content classification
+- Metadata management
+- Abstracting and indexing
+- Editorial quality assurance
+- Workflow consistency
+- Process improvement
+
+Transferable Analytics Skills
+
+- Data quality validation
+- Structured information management
+- Pattern identification
+- Classification systems
+- Content analysis
+- Quality auditing
+- Process optimization
+
+### Previous Experience: Language Editor
+
+Prior to becoming a Content Editor, I developed experience in:
+
+- Publication editing
+- Editorial quality assurance
+- Grammar and language review
+- Consistency checking
+- Structured content review
+
+---
 
 ## Connect With Me
 
-- 📍 Coimbatore, Tamil Nadu, India
-- 💼 LinkedIn profile coming soon
+📍 Coimbatore, Tamil Nadu, India
 
-## Career Direction
+---
 
-I am building on my editorial background rather than starting over. My experience with statistical publications, content quality, classification, metadata, and structured information provides a strong foundation for applying analytics to reporting, operations, and process improvement.
+## Career Goal
+
+I am building on my editorial background rather than starting over.
+
+My experience with statistical publications, metadata management, content classification, quality assurance, abstracting, and indexing provides a strong foundation for applying analytics to reporting, operations, and process improvement.
+
+I aim to combine domain expertise with Power BI, Python, SQL, and data storytelling to help organizations make better decisions through structured information and actionable insights.
